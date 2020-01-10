@@ -88,7 +88,7 @@ author:
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://steamcommunity.com/id/roran60/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,7 +105,7 @@ author:
   pinterest        :
   soundcloud       :  # "roran60"
   stackoverflow    :  # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            :  "https://steamcommunity.com/id/roran60/"
   tumblr           :
   twitter          :  # "replacethistwitterhandle"
   vine             :
