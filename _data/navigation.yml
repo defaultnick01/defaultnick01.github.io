@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Blog Posts"
-    url: /year-archive/ 
+    url: /year-archive/  
     
   - title: "Projekty"
     url: /publications/
@@ -10,13 +10,16 @@ main:
     url: /talks/    
 
  #- title: "*"
- #   url: /teaching/    
+  # url: /teaching/    
     
   #- title: "**"
     #url: /portfolio/
         
  # - title: "**"
    # url: /cv/
+
+  - title: "Skuska"
+    url: /skuska/
     
   - title: "Guide"
     url: /markdown/
