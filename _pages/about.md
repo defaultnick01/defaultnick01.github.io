@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roran60-blog"
+title: "Úvod"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
