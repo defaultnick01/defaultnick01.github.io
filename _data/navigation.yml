@@ -9,14 +9,14 @@ main:
   - title: "Fotky"
     url: /talks/    
 
-  - title: "*"
-    url: /teaching/    
+ #- title: "*"
+ #   url: /teaching/    
     
-  - title: "**"
-    url: /portfolio/
+  #- title: "**"
+    #url: /portfolio/
         
-  - title: "**"
-    url: /cv/
+ # - title: "**"
+   # url: /cv/
     
   - title: "Guide"
     url: /markdown/
