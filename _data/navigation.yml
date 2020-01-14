@@ -17,12 +17,6 @@ main:
         
  # - title: "**"
    # url: /cv/
-<<<<<<< HEAD
-=======
-
-  - title: "Skuska"
-    url: /skuska/skuska.md
->>>>>>> parent of 0d53ca2... Update navigation.yml
     
   - title: "Guide"
     url: /markdown/
