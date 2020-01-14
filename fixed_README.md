@@ -1,2 +1,0 @@
-
-moja stránka 
