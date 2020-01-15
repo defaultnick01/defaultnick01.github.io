@@ -1,5 +1,5 @@
 # Môj blog 
-----------------
+---------------
 
 
 [diff nastavovanie](http://archive.is/3TPas)  
@@ -8,7 +8,7 @@
 
 [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 
-
+---------------
 
 
 
