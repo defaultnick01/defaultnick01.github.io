@@ -1,4 +1,5 @@
-Môj blog
+# Môj blog 
+----------------
 
 
 [diff nastavovanie](http://archive.is/3TPas)  
