@@ -1,7 +1,11 @@
 Môj blog
 
 
+[diff nastavovanie](http://archive.is/3TPas)  
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+[Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 
 
 
