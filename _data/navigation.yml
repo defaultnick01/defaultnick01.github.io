@@ -19,7 +19,7 @@ main:
     url: /projekty/
     
   - title: "Homelab"
-    url: /markdown/ 
+    url: /homelab/ 
 
   - title: "Foto"
     url: /foto/
