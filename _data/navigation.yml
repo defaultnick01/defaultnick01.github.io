@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "Projekty"
-    url: /cv/
+    url: /projekty/
     
   - title: "Homelab"
     url: /markdown/ 
