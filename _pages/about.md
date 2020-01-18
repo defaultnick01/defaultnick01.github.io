@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Vitajte na mojej stránke. Kde sa venujem PC hardwéru a softwéru,elektronike a ostatným pre mňa zaujímavým veciam. Postupne sem budem pridávať rôzne články a návody z oblasti Linuxu,Windowsu,sietí ale nebránim sa ani hrám. 
