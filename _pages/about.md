@@ -8,8 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-Loren ipsum
-====== 
-Skuska
-
-test
