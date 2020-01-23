@@ -8,17 +8,19 @@ redirect_from:
 _Tu uvidíte s čím práve pracujem a experimentujem._
 
 Hlavný PC
-----------
+---------- 
 
 
 
 
 
 
-
-
-| Tables        | Are           | 
-|               |               | 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |    
+| Základová Doska      |ASUS PRIME B350-PLUS - AMD B350              | 
+| CPU                  |AMD Ryzen 5 2400G                            | 
+| Skrinka              |Corsair Carbide Serie SPEC-03 Blue LED       | 
+| Chladič              |SilentiumPC Spartan 3 PRO HE1024             |   
+| Zdroj                |Seasonic Focus Plus Gold - 550W              |    
+| Disk                 |3,5" - 1TB                                   | 
+| Ram                  |ADATA XPG GAMMIX D10 8GB DDR4 2666MHz, černá | 
+| GPU                  |Sapphire Radeon NITRO+ RX 580, 8GB GDDR5     | 
+    
