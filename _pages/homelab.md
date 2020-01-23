@@ -10,11 +10,6 @@ _Tu uvidíte s čím práve pracujem a experimentujem._
 Hlavný PC
 ---------- 
 
-
-
-
-
-
 | Základová Doska      |ASUS PRIME B350-PLUS                         | 
 | CPU                  |AMD Ryzen 5 2400G                            | 
 | Skrinka              |Corsair Carbide Serie SPEC-03                | 
@@ -24,3 +19,35 @@ Hlavný PC
 | Ram                  |ADATA XPG GAMMIX D10 2X8GB kit DDR4 2666MHz  | 
 | GPU                  |Sapphire Radeon NITRO+ RX 580  8GB           | 
     
+
+Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky    
+
+
+
+
+
+
+
+
+NAS PC
+----------   
+
+
+
+
+
+
+
+
+Mini  PC
+----------  
+
+
+
+
+
+
+
+
+Gigabit switch
+----------  
