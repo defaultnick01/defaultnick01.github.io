@@ -15,12 +15,12 @@ Hlavný PC
 
 
 
-| Základová Doska      |ASUS PRIME B350-PLUS - AMD B350              | 
+| Základová Doska      |ASUS PRIME B350-PLUS                         | 
 | CPU                  |AMD Ryzen 5 2400G                            | 
-| Skrinka              |Corsair Carbide Serie SPEC-03 Blue LED       | 
+| Skrinka              |Corsair Carbide Serie SPEC-03                | 
 | Chladič              |SilentiumPC Spartan 3 PRO HE1024             |   
 | Zdroj                |Seasonic Focus Plus Gold - 550W              |    
 | Disk                 |3,5" - 1TB                                   | 
-| Ram                  |ADATA XPG GAMMIX D10 8GB DDR4 2666MHz, černá | 
-| GPU                  |Sapphire Radeon NITRO+ RX 580, 8GB GDDR5     | 
+| Ram                  |ADATA XPG GAMMIX D10 2X8GB kit DDR4 2666MHz  | 
+| GPU                  |Sapphire Radeon NITRO+ RX 580  8GB           | 
     
