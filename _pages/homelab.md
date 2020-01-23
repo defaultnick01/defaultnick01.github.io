@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   
 ---
-Tu uvidíte s čím práve pracujem 
+_Tu uvidíte s čím práve pracujem a experimentujem._
 
 
 
