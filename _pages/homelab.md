@@ -7,7 +7,8 @@ redirect_from:
 ---
 _Tu uvidíte s čím práve pracujem a experimentujem._
 
-
+Hlavný PC
+----------
 
 
 
