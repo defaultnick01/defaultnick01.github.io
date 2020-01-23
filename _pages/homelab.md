@@ -20,7 +20,7 @@ Hlavný PC
 | GPU                  |Sapphire Radeon NITRO+ RX 580  8GB           | 
     
 
-Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky    
+Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmarky sú na základných taktoch.   
 
 
 
@@ -31,7 +31,7 @@ Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky
 
 NAS PC
 ----------   
-
+socket 775
 
 
 
@@ -52,7 +52,7 @@ Mini  PC
 Gigabit switch
 ----------   
 
-
+EDIMAX ES5160G+
 
 
 
