@@ -55,11 +55,8 @@ Gigabit switch EDIMAX ES5160G+
 
 ![switch](https://i.imgur.com/2aMEjLx.jpg)
 
-
-
-
-
-16 portový gigabit manažovatelný switch. 
+16 portový gigabit manažovatelný switch. Kúpil som ho výhodne s tým že tam je hlučný  ventilátor. Rozmontoval som to a nakoniec som tam musel vymeniť vytečené kondenzátory. 
+Ventilátory zmením až sa k tomu dostanem.
 
 
 
