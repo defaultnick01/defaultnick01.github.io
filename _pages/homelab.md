@@ -48,6 +48,13 @@ Mini  PC
 
 
 
+Raspberry Pi 2 model B
+----------   
+
+
+
+
+
 
 
 Gigabit switch EDIMAX ES5160G+ 
@@ -64,4 +71,4 @@ Ventilátory zmením až sa k tomu dostanem.
 
 
 Openwrt WIFI router
-----------
+----------   
