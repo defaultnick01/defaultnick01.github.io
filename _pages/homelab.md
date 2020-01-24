@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   
 ---
-_Tu uvidíte s čím práve pracujem a experimentujem._
+_Tu uvidíte na čom práve pracujem a experimentujem._
 
 Hlavný PC
 ---------- 
@@ -53,7 +53,16 @@ Mini  PC
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
 
-EDIMAX ES5160G+
+Reference-style: 
+![alt text][switch]
+
+[switch]: https://i.imgur.com/2aMEjLx.jpg "switch"
+
+
+
+
+16 portový gigabit manažovatelný switch. 
+
 
 
 
