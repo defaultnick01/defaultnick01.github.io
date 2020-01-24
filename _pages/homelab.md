@@ -53,8 +53,6 @@ Mini  PC
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
 
-Reference-style: 
-![alt text][switch]
 
 [switch]: https://i.imgur.com/2aMEjLx.jpg "switch"
 
