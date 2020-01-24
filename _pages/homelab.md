@@ -50,7 +50,7 @@ Mini  PC
 
 
 
-EDIMAX ES5160G+ Gigabit switch
+Gigabit switch EDIMAX ES5160G+ 
 ----------   
 
 EDIMAX ES5160G+
