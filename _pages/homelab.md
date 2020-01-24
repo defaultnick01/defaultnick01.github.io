@@ -22,6 +22,7 @@ Hlavný PC
 
 Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmarky sú na základných taktoch.   
 
+Teplovodivá pasta bola použitá 
 
 
 
@@ -49,7 +50,7 @@ Mini  PC
 
 
 
-Gigabit switch
+EDIMAX ES5160G+ Gigabit switch
 ----------   
 
 EDIMAX ES5160G+
