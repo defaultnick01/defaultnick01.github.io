@@ -51,7 +51,7 @@ Mini  PC
 Raspberry Pi 2 model B
 ----------   
 
-
+![raspberrypi](https://i.imgur.com/aReCLZD.jpg)
 
 
 
@@ -67,8 +67,8 @@ Ventilátory zmením až sa k tomu dostanem.
 
 
 
-
-
+![switch](https://i.imgur.com/MwMqkgc.jpg)
+![switch](https://i.imgur.com/VeJQ4O0.jpg)
 
 Openwrt WIFI router
 ----------   
