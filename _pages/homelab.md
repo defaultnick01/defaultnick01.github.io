@@ -20,6 +20,7 @@ Hlavný PC
 | GPU                  |Sapphire Radeon NITRO+ RX 580  8GB           | 
 |Sieťová karta         |Gigabyte GC-WB867D-I                         |    
 |Teplovodivá pasta     |ARCTIC MX-2 4g                               | 
+
 Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmarky sú na základných taktoch.   
 
 ![benchmark](https://i.imgur.com/Xer5V8G.png) 
