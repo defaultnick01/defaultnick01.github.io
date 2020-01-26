@@ -88,6 +88,8 @@ Ventilátory zmením až sa k tomu dostanem.
 
 ![switch](https://i.imgur.com/MwMqkgc.jpg)
 
+Zlé kondenzátory:
+
 ![switch](https://i.imgur.com/VeJQ4O0.jpg)
 
 Openwrt WIFI router
