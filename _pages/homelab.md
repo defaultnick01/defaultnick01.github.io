@@ -18,9 +18,8 @@ Hlavný PC
 | Disk                 |3,5" - 1TB                                   | 
 | Ram                  |ADATA XPG GAMMIX D10 2X8GB kit DDR4 2666MHz  | 
 | GPU                  |Sapphire Radeon NITRO+ RX 580  8GB           | 
-|Teplovodivá pasta     |ARCTIC MX-2 4g                               | 
 |Sieťová karta         |Gigabyte GC-WB867D-I                         |    
-
+|Teplovodivá pasta     |ARCTIC MX-2 4g                               | 
 Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmarky sú na základných taktoch.   
 
 Teplovodivá pasta bola použitá 
