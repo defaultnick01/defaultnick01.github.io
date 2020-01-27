@@ -23,14 +23,14 @@ Hlavný PC
 
 Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmarky sú na základných taktoch.   
 
-![benchmark](https://i.imgur.com/Xer5V8G.png) 
+![pc](https://i.imgur.com/Xer5V8G.png) 
 
 
-![benchmark](https://i.imgur.com/nKiFyUa.png)
+![pc](https://i.imgur.com/nKiFyUa.png)
 
 A tu sú fotky zo stavby.
 
-![benchmark](https://i.imgur.com/Y6uljrS.jpg)
+![pc](https://i.imgur.com/Y6uljrS.jpg)
 
 
 
@@ -95,4 +95,9 @@ Zlé kondenzátory:
 ![switch](https://i.imgur.com/VeJQ4O0.jpg)
 
 Openwrt WIFI router
-----------   
+----------    
+
+![router](https://i.imgur.com/hjQQZWf.jpg)   
+
+![router](https://i.imgur.com/hiH9t7k.jpg)
+
