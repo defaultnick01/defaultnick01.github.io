@@ -28,6 +28,7 @@ Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmark
 
 ![benchmark](https://i.imgur.com/nKiFyUa.png)
 
+A tu sú fotky zo stavby.
 
 ![benchmark](https://i.imgur.com/Y6uljrS.jpg)
 
