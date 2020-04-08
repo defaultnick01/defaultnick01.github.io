@@ -30,7 +30,7 @@ Tento PC som si postavil sám. Zatial ho taktovať nechcem tak všetky benchmark
 
 A tu je fotka zo stavby.
 
-![pc](https://i.imgur.com/Y6uljrS.jpg)
+![pc](https://imgur.com/ZXo63JK)
 
 
 
