@@ -53,21 +53,17 @@ NAS PC socket 775
 
 
 
-Mini  PC
+Mini  PC - Lenovo ThinkCentre M53
 ----------  
 
-| Základová Doska      |-                        | 
-| CPU                  |-                        | 
-| Skrinka              |-                        | 
-| Chladič              |-                        |   
-| Zdroj                |-                        |    
-| Disk                 |-                        | 
-| Ram                  |-                        | 
-| GPU                  |-                        | 
-|Sieťová karta         |-                        |    
-|Teplovodivá pasta     |-                        | 
-         
-
+| CPU                  |- Pentium  J2900         |  
+| Disk                 |- 500 GB HDD             | 
+| Ram                  |- 8 GB RAM DDR3          | 
+| GPU                  |- integrované            | 
+|Ethernet              |- Realtek 8111GN         |    
+|Wifi                  |- Realtek RTL-8723BE     |  
+|Zdroj                 |- 65 W napájací adaptér  |           
+|Zvuková karta         |- Integrovaná ALC283     |
 
 
 
