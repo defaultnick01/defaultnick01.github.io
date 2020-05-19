@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
    # url: /talks/    
 
-  #- title: "Teaching"
+  #- title: "Teaching" 
     #url: /teaching/    
     
   #- title: "Portfolio"
@@ -29,3 +29,6 @@ main:
 
   - title: "Instagram"
     url: https://www.instagram.com/roran60/
+
+  - title: "YouTube"
+    url: https://www.youtube.com/channel/UCEefb14BglKYyFyVLecQFbg
