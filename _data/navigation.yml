@@ -15,14 +15,14 @@ main:
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Projekty"
-    url: /projekty/
+  #- title: "Projekty"
+    #url: /projekty/
     
   - title: "Homelab"
     url: /homelab/ 
 
-  - title: "Foto"
-    url: /foto/  
+  #- title: "Foto"
+    #url: /foto/  
     
   - title: "Twitter"
     url: https://twitter.com/Roran60/
