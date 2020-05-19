@@ -22,9 +22,9 @@ main:
     url: /homelab/ 
 
   - title: "Foto"
-    url: /foto/
- 
- - title: "Twitter"
+    url: /foto/  
+    
+  - title: "Twitter"
     url: /homelab/ 
 
   - title: "Instagram"
