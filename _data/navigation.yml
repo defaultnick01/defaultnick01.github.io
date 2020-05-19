@@ -23,3 +23,9 @@ main:
 
   - title: "Foto"
     url: /foto/
+ 
+ - title: "Twitter"
+    url: /homelab/ 
+
+  - title: "Instagram"
+    url: /foto/
