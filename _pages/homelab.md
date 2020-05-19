@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   
 ---
-_Tu uvidíte na čom práve pracujem a experimentujem._
+_Tu uvidíte na akom hardvéry práve pracujem a experimentujem._
 
 Hlavný PC
 ---------- 
