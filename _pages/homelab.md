@@ -38,16 +38,16 @@ NAS PC socket 775
 ----------   
 
 
-| Základová Doska      |-                        | 
-| CPU                  |-                        | 
-| Skrinka              |-                        | 
-| Chladič              |-                        |   
-| Zdroj                |-                        |    
-| Disk                 |-                        | 
-| Ram                  |-                        | 
-| GPU                  |-                        | 
-|Sieťová karta         |-                        |    
-|Teplovodivá pasta     |-                        | 
+| Základová Doska      |- Intel DG41RQ                            | 
+| CPU                  |- Pentium dualcore E6700 3,2 GHz          | 
+| Skrinka              |- mATX                                    | 
+| Chladič              |- Boxovaný                                |   
+| Zdroj                |- 400 W Fortron FSP 400-60HLN             |    
+| Disk                 |- 3x 500 GB HDD                           | 
+| Ram                  |- 2x 1GB DDR2                             | 
+| GPU                  |- Sapphire Radeon HD3600 16 MB vram       | 
+|Sieťová karta         |- Realtek RTL-8168/8111  gigabit ethernet |    
+ 
 
 
 
