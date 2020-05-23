@@ -90,6 +90,12 @@ Gigabit switch EDIMAX ES5160G+
 Archer C2 WIFI router 
 ----------    
 
+| Firmware       |- OpenWRT                                   |  
+| LAN            |- x4  10/100/1000 Mbps                      | 
+| WAN            |- x1  10/100/1000 Mbps                      | 
+| Externý zdroj  |- 9 V 0,85 A EU                             | 
+| Anténa         |- 2x 2,4 GHz - 1x 5 GHz OpenWRT nepodporuje |    
+| HDMI                 |- x1                             |  
 
 
 
