@@ -82,9 +82,6 @@ Raspberry Pi 2 model B
 
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
-|Gigabit Ethernet  |- x16           |
-|SFP Konektor      |- x4 kombinované|
-|Administrácia     |- web manažment |
 
 | Gigabit Ethernet         |- x16            |  
 | SFP Konektor             |- x4 kombinované | 
