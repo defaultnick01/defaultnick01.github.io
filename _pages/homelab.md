@@ -86,6 +86,10 @@ Gigabit switch EDIMAX ES5160G+
 |SFP Konektor      |- x4 kombinované|
 |Administrácia     |- web manažment |
 
+| Gigabit Ethernet         |- x16            |  
+| SFP Konektor             |- x4 kombinované | 
+| Administrácia            |- web manažment  | 
+
 Archer C2 WIFI router 
 ----------    
 
