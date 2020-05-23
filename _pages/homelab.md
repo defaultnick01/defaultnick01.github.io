@@ -79,6 +79,14 @@ Raspberry Pi 2 model B
 | Interná pamäť | - microSDHC karta                 |
 
 
+| CPU                  |- ARM Cortex A7 900 MHz 4-jadrá  |  
+| RAM                  |- 1GB zdielané z GPU             | 
+| GPU                  |- Broadcom videocore IV          | 
+| Ethernet             |- 10/100 Mbit/s                  | 
+| USB                  |- 2.0 x4                         |    
+| HDMI                 |- x1                             |  
+| GPIO                 |- x17                            |           
+| Interná pamäť        |- microSDHC karta                |
 
 
 Gigabit switch EDIMAX ES5160G+ 
