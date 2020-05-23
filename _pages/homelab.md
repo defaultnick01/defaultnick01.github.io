@@ -82,14 +82,12 @@ Raspberry Pi 2 model B
 
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
-|      |
-|      |
+
 
 |1|1|1|
 
 Archer C2 WIFI router 
 ----------    
-|      |
 
 
 
