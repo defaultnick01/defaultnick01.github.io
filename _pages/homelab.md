@@ -79,6 +79,15 @@ Raspberry Pi 2 model B
 |Interná pamäť|- microSDHC karta                 |
 
 
+| CPU                  |- Pentium  J2900         |  
+| Disk                 |- 500 GB HDD             | 
+| Ram                  |- 8 GB RAM DDR3          | 
+| GPU                  |- integrované            | 
+|Ethernet              |- Realtek 8111GN         |    
+|Wifi                  |- Realtek RTL-8723BE     |  
+|Zdroj                 |- 65 W napájací adaptér  |           
+|Zvuková karta         |- Integrovaná ALC283     |
+
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
 |      |
