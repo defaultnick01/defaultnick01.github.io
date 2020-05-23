@@ -69,8 +69,8 @@ Mini  PC - Lenovo ThinkCentre M53
 
 Raspberry Pi 2 model B
 ----------   
-
-![raspberrypi](https://i.imgur.com/aReCLZD.jpg)
+|      | 
+|      |
 
 
 
@@ -78,23 +78,15 @@ Raspberry Pi 2 model B
 
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
+|      |
+|      |
 
-![switch](https://i.imgur.com/2aMEjLx.jpg)
-
-16 portový gigabit manažovatelný switch. Kúpil som ho výhodne s tým že tam je hlučný  ventilátor. Rozmontoval som to a nakoniec som tam musel vymeniť vytečené kondenzátory. 
-Ventilátory zmením až sa k tomu dostanem.
-
-
-![switch](https://i.imgur.com/MwMqkgc.jpg)
-
-Zlé kondenzátory:
-
-![switch](https://i.imgur.com/VeJQ4O0.jpg)
-
-Openwrt WIFI router
+Archer C2 WIFI router 
 ----------    
+|      |
 
-![router](https://i.imgur.com/hjQQZWf.jpg)   
 
-![router](https://i.imgur.com/hiH9t7k.jpg)
+
+
+
 
