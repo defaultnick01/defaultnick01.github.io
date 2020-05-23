@@ -60,33 +60,26 @@ Mini  PC - Lenovo ThinkCentre M53
 | Disk                 |- 500 GB HDD             | 
 | Ram                  |- 8 GB RAM DDR3          | 
 | GPU                  |- integrované            | 
-|Ethernet              |- Realtek 8111GN         |    
-|Wifi                  |- Realtek RTL-8723BE     |  
-|Zdroj                 |- 65 W napájací adaptér  |           
-|Zvuková karta         |- Integrovaná ALC283     |
+| Ethernet             |- Realtek 8111GN         |    
+| Wifi                 |- Realtek RTL-8723BE     |  
+| Zdroj                |- 65 W napájací adaptér  |           
+| Zvuková karta        |- Integrovaná ALC283     |
 
 
 
 Raspberry Pi 2 model B
 ----------   
-|CPU          |- ARM Cortex A7 (900 MHz 4-jadrá) |
-|RAM          |- 1GB zdielané z GPU              |
-|GPU          |- Broadcom videocore IV           |
-|Ethernet     |- 10/100 Mbit/s                   |
-|USB          |- 2.0 x4                          |
-|HDMI         |- x1                              |
-|GPIO         |- x17                             |
-|Interná pamäť|- microSDHC karta                 |
+| CPU          | - ARM Cortex A7 (900 MHz 4-jadrá) |
+| RAM          | - 1GB zdielané z GPU              |
+| GPU          | - Broadcom videocore IV           |
+|Ethernet      | - 10/100 Mbit/s                   |
+|USB           | - 2.0 x4                          |
+|HDMI          | - x1                              |
+|GPIO          | - x17                             |
+|Interná pamäť | - microSDHC karta                 |
 
 
-| CPU                  |- Pentium  J2900         |  
-| Disk                 |- 500 GB HDD             | 
-| Ram                  |- 8 GB RAM DDR3          | 
-| GPU                  |- integrované            | 
-|Ethernet              |- Realtek 8111GN         |    
-|Wifi                  |- Realtek RTL-8723BE     |  
-|Zdroj                 |- 65 W napájací adaptér  |           
-|Zvuková karta         |- Integrovaná ALC283     |
+
 
 Gigabit switch EDIMAX ES5160G+ 
 ----------   
