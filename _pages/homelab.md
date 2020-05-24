@@ -87,9 +87,11 @@ Gigabit switch EDIMAX ES5160G+
 | SFP Konektor             |- x4 kombinované | 
 | Administrácia            |- web manažment  | 
 
-Datasheet - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160G+5240G+_datasheet-NEW.pdf) 
-Návod 1   - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160Gplus_5240Gplus.pdf) 
-Návod 2   - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160GPlusUserManual.pdf) 
+
+
+| Datasheet - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160G+5240G+_datasheet-NEW.pdf) | 
+| Návod 1   - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160Gplus_5240Gplus.pdf)        |
+| Návod 2   - [get the PDF]({{ https://roran600.github.io }}\files\EDIMAX\ES-5160GPlusUserManual.pdf)        |
 
 
 Archer C2 WIFI router 
