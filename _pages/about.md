@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Úvod"
-excerpt: "About me"
+excerpt: "O mne"
 author_profile: true
 redirect_from: 
   - /about/
